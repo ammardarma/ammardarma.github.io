@@ -30,20 +30,19 @@
 ],
   "aves" : 
 [
-  
+
   {
-  "id" : "1",
-  "nama" : "Anjing",
-  "gambar" : "https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
- "namaLatin" : "Canis lupus familiaris",
-  "status" : "Hewan Peliharaan",
-  "jenisMakanan" : "Karnivora dan Omnivora",
-"jenisSpesies" : "Pomeranian, Poodle, Shih tzu, Chi hua hua, Maltese, Yorkshire (Yorkie), Pekingese, Beagle",
-"pesebaran" : "Seluruh dunia", 
-"makananKesukaan" : "Daging, Sayuran, Makanan Anjing",
-"Deskripsi" : "Anjing adalah mamalia yang telah mengalami domestikasi dari serigala sejak 15.000 tahun yang lalu atau mungkin sudah sejak 100.000 tahun yang lalu berdasarkan bukti genetik berupa penemuan fosil dan tes DNA. Penelitian lain mengungkap sejarah domestikasi anjing yang belum begitu lama. Anjing adalah hewan sosial sama seperti halnya manusia. Kedekatan pola perilaku anjing dengan manusia menjadikan anjing bisa dilatih, diajak bermain, tinggal bersama manusia, dan diajak bersosialiasi dengan manusia dan anjing yang lain. Anjing memiliki kedudukan unik dalam hubungan antarspesies. Kesetiaan dan pengabdian yang ditunjukkan anjing paling mirip dengan pemikiran manusia mengenai cinta dan persahabatan. Walaupun sudah adalah naluri alami anjing sebagai hewan kelompokan, pemilik anjing paling menghargai kesetiaan dan pengabdian anjing dan mengasumsikannya sebagai anggota keluarga sendiri. Anjing kesayangan bahkan sering mencapai diberi nama keluarga yang sama seperti nama pemiliknya. Sebaliknya, anjing mengasumsikan manusia sebagai anggota kelompokannya. Anjing hanya sedikit membedakan kedudukan sang pemilik dengan rekan anjing yang masih satu kelompokan, dan bahkan sering tidak membedakannya sama sekali."
-  }, 
- 
+    "id" : "1",
+      "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Burung_Kutilang.jpg/1200px-Burung_Kutilang.jpg?20190506061055",
+      "nama" : " Cucak Kutilang",
+     "namaLatin" : " Pycnonotus aurigaster",
+      "status" : " Hewan Peliharaan  ",
+      "jenisMakanan" : "Omnivora",
+    "jenisSpesies" : " Kutilang jambul, Cucak kuning",
+    "pesebaran" : " Seluruh Indonesia ", 
+    "makananKesukaan" : "Serangga, ulat, biji-bijian, buah-buahan dan aneka hewan kecil ",
+    "Deskripsi" : "cucak kutilang adalah jenis burung yang memiliki suara yang khas, hidup berkelompok, banyak dijumpai pada hutan-hutan sekunder, area terbuka, semak belukar dan padang rumput, serta pakannya dari jenis jenis serangga, ulat dan aneka hewan kecil lainnya. Cucak kutilang memiliki kebiasaan yaitu berjemur dan mandi embun untuk mempertahankan minyak pada bulunya"
+      }, 
   {
   "id" : "2",
   "nama" : "Berang-Berang",
