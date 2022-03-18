@@ -5,7 +5,7 @@
   {
     "id" : "1",
   "nama" : "Anjing",
-  "gambar" : "https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+  "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Keeshond_Sibirian_Husky_crossbreed_puppy.jpg/1200px-Keeshond_Sibirian_Husky_crossbreed_puppy.jpg?20080321140957",
  "namaLatin" : "Canis lupus familiaris",
   "status" : "Hewan Peliharaan",
   "jenisMakanan" : "Karnivora dan Omnivora",
@@ -17,7 +17,7 @@
   {
   "id" : "2",
   "nama" : "Berang-Berang",
-  "gambar" : "https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+  "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lutra_lutra_1_-_Otter%2C_Owl%2C_and_Wildlife_Park.jpg/1200px-Lutra_lutra_1_-_Otter%2C_Owl%2C_and_Wildlife_Park.jpg?20070921052757",
   "namaLatin" : "Lutrinae",
   "status" : "Hewan Peliharaan/Hewan Jinak",
   "jenisMakanan" : "Karnivora",
