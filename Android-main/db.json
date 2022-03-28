@@ -56,41 +56,30 @@
         "Deskripsi" : "Elang adalah satwa pemangsa  yang memiliki ciri tubuh yang kekar, berbadan besar dan tentunya memiliki kekuatan yang ekstra. Dan yang paling menonjol dari burung jenis ini adalah paruhnya yang panjang dan kuat. Elang biasa menggunakan tipe habitat hutan alam dapat memenuhi kebutuhannya sumber pakan berupa satwa arboreal maupun terestrial yang berukuran kecil hingga sedang, maupun pohon mencuat/emergent untuk persarangannya. Elang berkembangbiak dengan cara bertelur  "
           },
           {
-            "id" : "3",  
+            "id" : "3", 
              "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bald.eagle.closeup.arp-sh.750pix.jpg/1200px-Bald.eagle.closeup.arp-sh.750pix.jpg?20070626160520",
-              "nama" : "Burung Cekakak",
-             "namaLatin" : "Alcedoatthis",
-              "status" : "Hewan Liar",
-              "jenisMakanan" : "Karnivora",
-            "jenisSpesies" : "Cekakak sungai, cekakak jawa, Cekakak batu, cekakak pita biasa",
-            "pesebaran" : "Inggris bagian tengah dan selatan, Asia, Afrika, Oseania, dan negara tropis dan subtropis lainnya", 
-            "makananKesukaan" : "Ikan",
-            "Deskripsi" : "Burung cekakak adalah salah satu jenis burung yang memiliki warna bulu yang sangat cerah. Ciri-cirinya yaitu, kepala besar, paruh panjang, tajam, runcing, kaki pendek, dan ekor gemuk.  Habitat cekakak berada di lahan terbuka, pepohonan, yang dekat dengan sumber air bersih, tersebar sampai ketinggian 1.000 m dpl. "
+              "nama" : "Elang",
+             "namaLatin" : " Accipitridae",
+              "status" : " Hewan Liar",
+              "jenisMakanan" : " Karnivora",
+            "jenisSpesies" : " Elang Hitam, Elang Brontok, Elang Bido, Elang Buteo, Elang Jawa, Elang Gunung, Elang Wallace, Elang Flores, Garuda, Elang Sulawesi, Elang Bondol, Elang Laut Perut Putih, Elang Ikan Kepala Abu, Elang Ikan kecil, Elang Tikus, Elang Perut Karat, Elang Paria, Elang Emas, Rajawali Kuskus, Rajawali Tutul, Elang Ular Jari pendek, elang laut steller ",
+            "pesebaran" : "Seluruh Indonesia  ", 
+            "makananKesukaan" : " Daging  ",
+            "Deskripsi" : "Elang adalah satwa pemangsa  yang memiliki ciri tubuh yang kekar, berbadan besar dan tentunya memiliki kekuatan yang ekstra. Dan yang paling menonjol dari burung jenis ini adalah paruhnya yang panjang dan kuat. Elang biasa menggunakan tipe habitat hutan alam dapat memenuhi kebutuhannya sumber pakan berupa satwa arboreal maupun terestrial yang berukuran kecil hingga sedang, maupun pohon mencuat/emergent untuk persarangannya. Elang berkembangbiak dengan cara bertelur  "
               },
-        {
-          "id" : "4",  
-        "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Just_a_barnyard_hen._%28Gallus_gallus_domesticus%29_%2811177385473%29.jpg/1200px-Just_a_barnyard_hen._%28Gallus_gallus_domesticus%29_%2811177385473%29.jpg?20180621112213",
-          "nama" : "Ayam",
-        "namaLatin" : "Gallus sp",
-          "status" : "Hewan Peliharaan",
-          "jenisMakanan" : "Omnivora",
-        "jenisSpesies" : "Ayam kampung, ayam broiler, ayam petelur, ayam hutan hijau, ayam hutan merah, ayam hutan india, ayam pelung, ayam sentul, ayam hias",
-        "pesebaran" : "Seluruh dunia", 
-        "makananKesukaan" : "cacing dan buah-buahan",
-        "Deskripsi" : "Ayam merupakan salah satu ternak perairan utama pada kehidupan manusia. Ayam (Gallus sp) termasuk kelas aves. Tubuhnya ditutupi bulu yang berfungsi sebagai pengatur suhu dan membantu pada saat terbang, memiliki dua pang ekstermis mempunyai sepasang anggota belakang yang maing-masing kaki berjari 4 serta di akhiri dengan cakar, serta mulutnya memilki paruh."
-          },
-    {
-           "id" : "5",  
-             "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mandarin.duck.arp.jpg/1200px-Mandarin.duck.arp.jpg?20060222103815",
-              "nama" : "itik",
-             "namaLatin" : "Anatidae",
-              "status" : "Hewan Peliharaan",
-              "jenisMakanan" : "Omnivora",
-            "jenisSpesies" : "bebek laut, angsa, angsa berleher pendek",
-            "pesebaran" : "Seluruh dunia", 
-            "makananKesukaan" : "ikan",
-            "Deskripsi" : "itik merupakan unggas yang hidupnya di darat, pandai berenang, salah satu burung akuatik yang memiliki badan lebih kecil dari kerabatnya. Itik memiliki tubuh berlekuk dan lebar, serta memiliki paruh yang lebar. Itik termasuk binatang piaraan"
-              }
+              {
+                "id" : "4", 
+                 "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bald.eagle.closeup.arp-sh.750pix.jpg/1200px-Bald.eagle.closeup.arp-sh.750pix.jpg?20070626160520",
+                  "nama" : "Elang",
+                 "namaLatin" : " Accipitridae",
+                  "status" : " Hewan Liar",
+                  "jenisMakanan" : " Karnivora",
+                "jenisSpesies" : " Elang Hitam, Elang Brontok, Elang Bido, Elang Buteo, Elang Jawa, Elang Gunung, Elang Wallace, Elang Flores, Garuda, Elang Sulawesi, Elang Bondol, Elang Laut Perut Putih, Elang Ikan Kepala Abu, Elang Ikan kecil, Elang Tikus, Elang Perut Karat, Elang Paria, Elang Emas, Rajawali Kuskus, Rajawali Tutul, Elang Ular Jari pendek, elang laut steller ",
+                "pesebaran" : "Seluruh Indonesia  ", 
+                "makananKesukaan" : " Daging  ",
+                "Deskripsi" : "Elang adalah satwa pemangsa  yang memiliki ciri tubuh yang kekar, berbadan besar dan tentunya memiliki kekuatan yang ekstra. Dan yang paling menonjol dari burung jenis ini adalah paruhnya yang panjang dan kuat. Elang biasa menggunakan tipe habitat hutan alam dapat memenuhi kebutuhannya sumber pakan berupa satwa arboreal maupun terestrial yang berukuran kecil hingga sedang, maupun pohon mencuat/emergent untuk persarangannya. Elang berkembangbiak dengan cara bertelur  "
+                  }
+
 
 ], 
   "pisces" : 
@@ -153,19 +142,6 @@
 ], 
   "reptil" : 
 [
-  
-  {
-    "id" : "1",  
-     "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Snake_Burmese_Python.jpg/1200px-Snake_Burmese_Python.jpg?20181020095928",
-      "nama" : "Ular Sanca",
-     "namaLatin" : "Pythonidae",
-      "status" : "Hewan liar",
-      "jenisMakanan" : "karnivora",
-    "jenisSpesies" : "Python anchietae, Python breitensteini, Python brongersmai, Python curtus, Python molurus, Python natalensis, Python regius, Python reticulatus, Python sebae, Python timoriensis",
-    "pesebaran" : "Afrika, Australia, Amerika, Asia, termasuk Indonesia.", 
-    "makananKesukaan" : "daging",
-    "Deskripsi" : "Piton merupakan ular tidak berbisa dengan panjang antara 1,5 meter hingga 6,5 meter, sedangkan untuk beratnya 1 kg hingga 75 kg. Ular piton umumnya ditemukan di padang rumput, hutan tropis ataupun perairan air tawar. Tempat tinggal ular piton adalah kawasan hutan hujan tropis, sungai, hingga padang rumput."
-      },
   {
   "id" : "2",
   "nama" : "Berang-Berang",
