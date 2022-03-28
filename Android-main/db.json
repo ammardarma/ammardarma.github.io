@@ -36,26 +36,62 @@
       "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Burung_Kutilang.jpg/1200px-Burung_Kutilang.jpg?20190506061055",
       "nama" : " Cucak Kutilang",
      "namaLatin" : " Pycnonotus aurigaster",
-      "status" : " Hewan Peliharaan  ",
+      "status" : " Hewan Peliharaan",
       "jenisMakanan" : "Omnivora",
     "jenisSpesies" : " Kutilang jambul, Cucak kuning",
     "pesebaran" : " Seluruh Indonesia ", 
     "makananKesukaan" : "Serangga, ulat, biji-bijian, buah-buahan dan aneka hewan kecil ",
     "Deskripsi" : "cucak kutilang adalah jenis burung yang memiliki suara yang khas, hidup berkelompok, banyak dijumpai pada hutan-hutan sekunder, area terbuka, semak belukar dan padang rumput, serta pakannya dari jenis jenis serangga, ulat dan aneka hewan kecil lainnya. Cucak kutilang memiliki kebiasaan yaitu berjemur dan mandi embun untuk mempertahankan minyak pada bulunya"
       }, 
-  {
-  "id" : "2",
-  "nama" : "Berang-Berang",
-  "gambar" : "https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
-  "namaLatin" : "Lutrinae",
-  "status" : "Hewan Peliharaan/Hewan Jinak",
-  "jenisMakanan" : "Karnivora",
-"jenisSpesies" : "Berang-berang pantai, Berang-berang sumatra, Berang-berang kanada, Berang-berang amerika, Berang-berang neotropis, Berang-berang afrika, Berang-berang laut ",
-"pesebaran" : "Seluruh Dunia kecuali Benua Australia", 
-"makananKesukaan" : "Daging",
-"Deskripsi" : "Berang-berang adalah salah satu jenis satwa unik dan bentuknya lucu. Hewan ini mempunyai ciri fisik yang seperti musang. Habitat hidupnya berada di dekat aliran sungai dan laut. Binatang ini tersebar hampir di seluruh dunia kecuali Benua Australia. Jenis berang-berang dibagi menjadi dua kelompok, yaitu Otter dan Beaver. Dari dua kelompok tersebut dibagi kembali menjadi 13 jenis. Di Indonesia hidup 4 jenis berang-berang dari total 13 jenis yang ada di dunia. 13 jenis tersebut masuk ke dalam beberapa genus yang berbeda-beda. Untuk spesies yang hidup di Indonesia berasal dari tiga genus, yaitu Lutra, Lutrogale, dan Aonyx. "
-  }
-  
+      {
+        "id" : "2", 
+         "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bald.eagle.closeup.arp-sh.750pix.jpg/1200px-Bald.eagle.closeup.arp-sh.750pix.jpg?20070626160520",
+          "nama" : "Elang  ",
+         "namaLatin" : " Accipitridae",
+          "status" : " Hewan Liar",
+          "jenisMakanan" : " Karnivora",
+        "jenisSpesies" : " Elang Hitam, Elang Brontok, Elang Bido, Elang Buteo, Elang Jawa, Elang Gunung, Elang Wallace, Elang Flores, Garuda, Elang Sulawesi, Elang Bondol, Elang Laut Perut Putih, Elang Ikan Kepala Abu, Elang Ikan kecil, Elang Tikus, Elang Perut Karat, Elang Paria, Elang Emas, Rajawali Kuskus, Rajawali Tutul, Elang Ular Jari pendek, elang laut steller ",
+        "pesebaran" : "Seluruh Indonesia  ", 
+        "makananKesukaan" : " Daging  ",
+        "Deskripsi" : "Elang adalah satwa pemangsa  yang memiliki ciri tubuh yang kekar, berbadan besar dan tentunya memiliki kekuatan yang ekstra. Dan yang paling menonjol dari burung jenis ini adalah paruhnya yang panjang dan kuat. Elang biasa menggunakan tipe habitat hutan alam dapat memenuhi kebutuhannya sumber pakan berupa satwa arboreal maupun terestrial yang berukuran kecil hingga sedang, maupun pohon mencuat/emergent untuk persarangannya. Elang berkembangbiak dengan cara bertelur  "
+          },
+          {
+            "id" : "3",  
+             "gambar" : "  ",
+              "nama" : "Burung Cekakak  ",
+             "namaLatin" : "Alcedoatthis  ",
+              "status" : "Hewan Liar  ",
+              "jenisMakanan" : "Karnivora ",
+            "jenisSpesies" : "Cekakak sungai, cekakak jawa, Cekakak batu, cekakak pita biasa ",
+            "pesebaran" : "Inggris bagian tengah dan selatan, Asia, Afrika, Oseania, dan negara tropis dan subtropis lainnya  ", 
+            "makananKesukaan" : "Ikan ",
+            "Deskripsi" : "Burung cekakak adalah salah satu jenis burung yang memiliki warna bulu yang sangat cerah. Ciri-cirinya yaitu, kepala besar, paruh panjang, tajam, runcing, kaki pendek, dan ekor gemuk.  Habitat cekakak berada di lahan terbuka, pepohonan, yang dekat dengan sumber air bersih, tersebar sampai ketinggian 1.000 m dpl. "
+              },
+        {
+          "id" : "4",  
+        "gambar" : "  ",
+          "nama" : "Ayam",
+        "namaLatin" : "Gallus sp",
+          "status" : "Hewan Peliharaan",
+          "jenisMakanan" : "Omnivora",
+        "jenisSpesies" : "Ayam kampung, ayam broiler, ayam petelur, ayam hutan hijau, ayam hutan merah, ayam hutan india, ayam pelung, ayam sentul, ayam hias",
+        "pesebaran" : "Seluruh dunia", 
+        "makananKesukaan" : "cacing dan buah-buahan",
+        "Deskripsi" : "Ayam merupakan salah satu ternak perairan utama pada kehidupan manusia. Ayam (Gallus sp) termasuk kelas aves. Tubuhnya ditutupi bulu yang berfungsi sebagai pengatur suhu dan membantu pada saat terbang, memiliki dua pang ekstermis mempunyai sepasang anggota belakang yang maing-masing kaki berjari 4 serta di akhiri dengan cakar, serta mulutnya memilki paruh."
+          },
+    {
+           "id" : "5",  
+             "gambar" : "  ",
+              "nama" : "itik",
+             "namaLatin" : "Anatidae",
+              "status" : "Hewan Peliharaan",
+              "jenisMakanan" : "Omnivora",
+            "jenisSpesies" : "bebek laut, angsa, angsa berleher pendek",
+            "pesebaran" : "Seluruh dunia", 
+            "makananKesukaan" : "ikan",
+            "Deskripsi" : "itik merupakan unggas yang hidupnya di darat, pandai berenang, salah satu burung akuatik yang memiliki badan lebih kecil dari kerabatnya. Itik memiliki tubuh berlekuk dan lebar, serta memiliki paruh yang lebar. Itik termasuk binatang piaraan"
+              }
+
 ], 
   "pisces" : 
 [
@@ -119,17 +155,17 @@
 [
   
   {
-  "id" : "1",
-  "nama" : "Anjing",
-  "gambar" : "https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
- "namaLatin" : "Canis lupus familiaris",
-  "status" : "Hewan Peliharaan",
-  "jenisMakanan" : "Karnivora dan Omnivora",
-"jenisSpesies" : "Pomeranian, Poodle, Shih tzu, Chi hua hua, Maltese, Yorkshire (Yorkie), Pekingese, Beagle",
-"pesebaran" : "Seluruh dunia", 
-"makananKesukaan" : "Daging, Sayuran, Makanan Anjing",
-"Deskripsi" : "Anjing adalah mamalia yang telah mengalami domestikasi dari serigala sejak 15.000 tahun yang lalu atau mungkin sudah sejak 100.000 tahun yang lalu berdasarkan bukti genetik berupa penemuan fosil dan tes DNA. Penelitian lain mengungkap sejarah domestikasi anjing yang belum begitu lama. Anjing adalah hewan sosial sama seperti halnya manusia. Kedekatan pola perilaku anjing dengan manusia menjadikan anjing bisa dilatih, diajak bermain, tinggal bersama manusia, dan diajak bersosialiasi dengan manusia dan anjing yang lain. Anjing memiliki kedudukan unik dalam hubungan antarspesies. Kesetiaan dan pengabdian yang ditunjukkan anjing paling mirip dengan pemikiran manusia mengenai cinta dan persahabatan. Walaupun sudah adalah naluri alami anjing sebagai hewan kelompokan, pemilik anjing paling menghargai kesetiaan dan pengabdian anjing dan mengasumsikannya sebagai anggota keluarga sendiri. Anjing kesayangan bahkan sering mencapai diberi nama keluarga yang sama seperti nama pemiliknya. Sebaliknya, anjing mengasumsikan manusia sebagai anggota kelompokannya. Anjing hanya sedikit membedakan kedudukan sang pemilik dengan rekan anjing yang masih satu kelompokan, dan bahkan sering tidak membedakannya sama sekali."
-  }, 
+    "id" : "1",  
+     "gambar" : "  ",
+      "nama" : "Ular Sanca",
+     "namaLatin" : "Pythonidae",
+      "status" : "Hewan liar",
+      "jenisMakanan" : "karnivora",
+    "jenisSpesies" : "Python anchietae, Python breitensteini, Python brongersmai, Python curtus, Python molurus, Python natalensis, Python regius, Python reticulatus, Python sebae, Python timoriensis",
+    "pesebaran" : "Afrika, Australia, Amerika, Asia, termasuk Indonesia.", 
+    "makananKesukaan" : "daging",
+    "Deskripsi" : "Piton merupakan ular tidak berbisa dengan panjang antara 1,5 meter hingga 6,5 meter, sedangkan untuk beratnya 1 kg hingga 75 kg. Ular piton umumnya ditemukan di padang rumput, hutan tropis ataupun perairan air tawar. Tempat tinggal ular piton adalah kawasan hutan hujan tropis, sungai, hingga padang rumput."
+      },
   {
   "id" : "2",
   "nama" : "Berang-Berang",
