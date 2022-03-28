@@ -70,7 +70,7 @@
               {
                 "id" : "4", 
                  "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bald.eagle.closeup.arp-sh.750pix.jpg/1200px-Bald.eagle.closeup.arp-sh.750pix.jpg?20070626160520",
-                  "nama" : "Elang2",
+                  "nama" : "Elang",
                  "namaLatin" : " Accipitridae",
                   "status" : " Hewan Liar",
                   "jenisMakanan" : " Karnivora",
@@ -78,7 +78,19 @@
                 "pesebaran" : "Seluruh Indonesia  ", 
                 "makananKesukaan" : " Daging  ",
                 "Deskripsi" : "Elang adalah satwa pemangsa  yang memiliki ciri tubuh yang kekar, berbadan besar dan tentunya memiliki kekuatan yang ekstra. Dan yang paling menonjol dari burung jenis ini adalah paruhnya yang panjang dan kuat. Elang biasa menggunakan tipe habitat hutan alam dapat memenuhi kebutuhannya sumber pakan berupa satwa arboreal maupun terestrial yang berukuran kecil hingga sedang, maupun pohon mencuat/emergent untuk persarangannya. Elang berkembangbiak dengan cara bertelur  "
-                  }
+                  },
+                  {
+                    "id" : "5", 
+                     "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bald.eagle.closeup.arp-sh.750pix.jpg/1200px-Bald.eagle.closeup.arp-sh.750pix.jpg?20070626160520",
+                      "nama" : "Elang",
+                     "namaLatin" : " Accipitridae",
+                      "status" : " Hewan Liar",
+                      "jenisMakanan" : " Karnivora",
+                    "jenisSpesies" : " Elang Hitam, Elang Brontok, Elang Bido, Elang Buteo, Elang Jawa, Elang Gunung, Elang Wallace, Elang Flores, Garuda, Elang Sulawesi, Elang Bondol, Elang Laut Perut Putih, Elang Ikan Kepala Abu, Elang Ikan kecil, Elang Tikus, Elang Perut Karat, Elang Paria, Elang Emas, Rajawali Kuskus, Rajawali Tutul, Elang Ular Jari pendek, elang laut steller ",
+                    "pesebaran" : "Seluruh Indonesia  ", 
+                    "makananKesukaan" : " Daging  ",
+                    "Deskripsi" : "Elang adalah satwa pemangsa  yang memiliki ciri tubuh yang kekar, berbadan besar dan tentunya memiliki kekuatan yang ekstra. Dan yang paling menonjol dari burung jenis ini adalah paruhnya yang panjang dan kuat. Elang biasa menggunakan tipe habitat hutan alam dapat memenuhi kebutuhannya sumber pakan berupa satwa arboreal maupun terestrial yang berukuran kecil hingga sedang, maupun pohon mencuat/emergent untuk persarangannya. Elang berkembangbiak dengan cara bertelur  "
+                      }
 
 
 ], 
