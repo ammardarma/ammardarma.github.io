@@ -37,7 +37,31 @@
   "pesebaran" : "Seluruh Dunia ", 
   "makananKesukaan" : "Daging, Ikan",
   "Deskripsi" : "Kucing adalah salah satu hewan peliharaan terpopuler di dunia. Kucing yang garis keturunannya tercatat secara resmi sebagai kucing trah atau galur murni (pure breed), seperti angora persia, siam, manx, sphinx. Kucing seperti ini biasanya dibiakkan di tempat pemeliharaan hewan resmi. Jumlah kucing ras hanyalah 1% dari seluruh kucing di dunia, sisanya adalah kucing dengan keturunan campuran seperti kucing liar atau kucing kampung Kucing dalam bahasa latinnya Felis silvestris catus, adalah sejenis karnivora. Kata 'kucing' biasanya merujuk kepada 'kucing' yang telah dijinakkan, tetapi bisa juga merujuk kepada 'kucing besar' seperti singa, harimau, dan macan. Kucing telah berbaur dengan kehidupan manusia paling tidak sejak 6.000 tahun SM, dari kerangka kucing di Pulau Siprus."
-    }
+    },
+    {
+      "id" : "4",
+      "nama" : "Gajah",
+      "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Male_Elephas_maximus_hamburger_zoo.JPG/640px-Male_Elephas_maximus_hamburger_zoo.JPG",
+      "namaLatin" : "Elephas maximus",
+      "status" : "Hewan Jinak/Hewan Liar",
+      "jenisMakanan" : "Herbivora",
+    "jenisSpesies" : "Indian Elephant, Asian Elephant, African bush Elephant, Borneo Elephant, Sri Lankan Elephant, Straight-tusked Elephant",
+    "pesebaran" : "Afrika sub-Sahara, Asia Selatan, dan Asia Tenggara.", 
+    "makananKesukaan" : "Rumput, Akar, Daun dan Buah-buahan",
+    "Deskripsi" : "Gajah adalah hewan darat terbesar yang tergolong sebagai mamalia. Hewan ini hidup dengan kelompok kecil yang dipimpin oleh betina yang berumur senior. Sementara, kebanyakan jantan muda hidup dalam kawanan yang terpisah dari para betina senior. Mengutip dari ensiklopedia Britannica, mamalia berukuran besar itu bisa hidup sampai umur 80 tahun atau lebih di penangkaran, tetapi hanya bisa hidup sampai usia 60 tahun di alam liar."
+      },
+      {
+        "id" : "5",
+        "nama" : "Singa",
+        "gambar" : "https://upload.wikimedia.org/wikipedia/commons/d/db/African_Lion_%2828376075989%29.jpg",
+        "namaLatin" : "Panthera Leo",
+        "status" : "Hewan Liar",
+        "jenisMakanan" : "Karnivora",
+      "jenisSpesies" : "Barbary Lion, Congo lion, Asiatic Lion, Transvaal Lion, Southwest African Lion, Cape Lion, European Lion. ",
+      "pesebaran" : "Afrika, Eropa, Timur Tengah, anak benua India", 
+      "makananKesukaan" : "Daging",
+      "Deskripsi" : "Singa adalah binatang yang hidup dalam kumpulan. Kebanyakan terdiri dari seekor jantan dan banyak betina. Singa juga punya salah satu perbedaan dengan Harimau,walaupun berasal dari keluarga yang sama, Singa tidak suka dengan air, berlainan dengan harimau yang suka dengan air, dan hidup di savanna/padang pasir. karena binatang malam hari, dalam sehari 20 jam ber baring di bebatuan/di bawah pohon yang teduh. tiap kumpulan Singa terdiri atas jantan 1-6 ekor, betina 4-15 ekor. wilayah kekuasaan satu kumpulan selang 20-400 km2. "
+        }
   
 ],
   "aves" : 
@@ -69,7 +93,7 @@
           },
           {
             "id" : "3",  
-             "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bald.eagle.closeup.arp-sh.750pix.jpg/1200px-Bald.eagle.closeup.arp-sh.750pix.jpg?20070626160520",
+             "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Common_kingfisher_in_Japan%2C_January_2019_-_%E8%B0%B7%E5%B4%8E7303.jpg/800px-Common_kingfisher_in_Japan%2C_January_2019_-_%E8%B0%B7%E5%B4%8E7303.jpg?20190121022001",
               "nama" : "Burung Cekakak",
              "namaLatin" : "Alcedoatthis",
               "status" : "Hewan Liar",
@@ -131,7 +155,31 @@
 "pesebaran" : "Ikan tenggiri hidup di iklim tropis perairan laut. Di Indonesia, daerah persebarannya meliputi seluruh perairan Sumatera, Jawa, Nusa Tenggara, Kalimantan, Sulawesi, Maluku, dan Papua.", 
 "makananKesukaan" : "Ikan-ikan kecil",
 "Deskripsi" : "Ciri-ciri ikan tenggiri adalah mempunyai tubuh yang panjang, berbentuk torpedo dan merupakan perenang cepat. Tenggiri memiliki mulut yang lebar dengan ujung runcing, gigi pada rahang gepeng dan tajam. Mempunyai dua sirip punggung pertama berjari-jari keras 14-17 buah, sedangkan sirip punggung kedua berjari-jari lunak 14-19 buah yang diikuti 8-10 sirip tambahan (finlet). Sirip dubur berjari-jari lunak 17-18 buah yang diikuti 8-10 sirip tambahan. Garis rusuk lurus kemudian membengkok tajam di bawah jari-jari sirip tambahan dan melurus sampai batang ekor. Ikan tenggiri memiliki tubuh lunak tidak bersisik dan warna punggung kebiru-biruan tetapi perutnya berwarna perak."
-  }
+  },
+  {
+    "id" : "3",
+   "nama" : "Ikan Koi",
+   "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Koi_carp%3B_March_2009.jpg/800px-Koi_carp%3B_March_2009.jpg?20200708030417",
+   "namaLatin" : "Cyprinus Carpio",
+   "status" : "Hewan Peliharaan",
+   "jenisMakanan" : "Karnivora",
+ "jenisSpesies" : "Kohaku, Taisho sanshoku (sanke ), Showa sanshoku (showa ), Bekko, Utsurimono ,  Asagi, Shusui , Koromo, Kawarimono, Goshiki,  Hikari mujimono, Hikari moyomono, Hikari utsurimono , Kin gin rin, dan tancho",
+ "pesebaran" : "Seluruh Dunia", 
+ "makananKesukaan" : "Tubifex sp. dan pelet",
+ "Deskripsi" : "Secara umum bentuk tubuh ikan koi seperti torpedo dengan perangkat gerakan berupa sirip. Sirip-sirip yang dilengkapi sebuah sirip punggung,ssepasang sirip dada, sepasang sirip perut, sebuah sirip anus, dan sebuah sirip ekor termasuk morfolog ikan koi. Alat penggerak yang terdapat pada ikan koi terdiri dari jari-jari keras, jari-jari lunak, dan selaput sirip. Jari-jari keras adalah jari-jari sirip yang kaku dan patah jika dibengkokkan. Sebaliknya, jari-jari lunak dan tidak patah jika dibengkokkan dan terletak di belakang jari-jari keras. Selaput sirip banyak disebut dengan “sayap” yang memungkinkan ikan koi memiliki tenaga untuk mendorong cukup kuat ketika berenang."
+   },
+   {
+    "id" : "4",
+   "nama" : "Ikan Lele",
+   "gambar" : "https://upload.wikimedia.org/wikipedia/commons/3/3c/Eel-tail_catfish.jpg",
+   "namaLatin" : "Clariidae",
+   "status" : "Hewan Peliharaan",
+   "jenisMakanan" : "Omnivora",
+ "jenisSpesies" : "Lele jawa, Lele dumbo, Lele sangkuriang, Lele phyton, dan Lele mutiara",
+ "pesebaran" : "Asia Tenggara", 
+ "makananKesukaan" : "Pelet",
+ "Deskripsi" : "Ikan lele atau Clarias sp. ini memiliki ciri-ciri fisik tubuh yang licin, bentuknya memanjang, tidak memiliki sisik, sirip punggung dan sirip anus juga berbentuk memanjang. Sirip dan ekor lele terkadang menyatu hingga membuatnya tampak seperti sikat yang pendek. Kepala ikan lele keras bertulang pada bagian atasnya. Lele juga memiliki sungut peraba atau disebut barbels yang berguna saat bergerak di air yang gelap. Lele juga memiliki mata kecil, mulut lebar yang terletak di ujung moncongnya, alat pernapasan yang memiliki modifikasi dari busur insang, dan pada sirip-sirip dadanya terdapat patil berupa duri-duri tajam."
+   }
   
 ], 
   "amfibi" : 
@@ -160,7 +208,19 @@
 "pesebaran" : "Daerah terdekat Persebaran salamander adalah Vietnam, Laos dan Thailand Utara", 
 "makananKesukaan" : "Serangga, Siput, Keong kecil, maupun Cacing.",
 "Deskripsi" : "Salamander adalah nama umum untuk sekitar 550 spesies amfibi. Mereka secara umum dicirikan oleh penampilan mirip kadal, dengan tubuh ramping, hidung pendek, dan ekor yang panjang. Semua fosil dan spesisnya yang telah punah diisikan ke dalam ordo Caudata, sedangkan spesiesnya yang sedang benar digolongkan bersama ke dalam Urodela. Sebagian luhur salamander memiliki empat jari pada kaki hadapan mereka dan lima jari pada kaki balik mereka. Kulit mereka yang lembap menjadikan mereka bertambah suka tinggal di habitat di atau tidak jauh cairan, atau dalam tempat yang terlindung (misalnya tanah lembap), seringkali di lahan basah. Beberapa spesies Salamander sepenuhnya tinggal di cairan sepanjang hidup mereka, sebagian tinggal di cairan untuk sementara, dan sebagian lagi tinggal di darat ketika matang. Mereka makhluk vertebrata yang unik karena mereka bisa menumbuhkan kembali anggota tubuh yang hilang. "
-  }
+  },
+  {
+    "id" : "3",
+    "nama" : "Salamander Axolotl",
+    "gambar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Axolotl-2193331_1280.webp/800px-Axolotl-2193331_1280.webp.png?20220210051554",
+    "namaLatin" : "Ambystoma mexicanum",
+    "status" : "Hewan Jinak/Hewan Liar",
+    "jenisMakanan" : "Karnivora",
+  "jenisSpesies" : "Axolotl Leucistik, Axolotl Wildtype, Axolotl Copper, Axolotl Albino, Axolotl Golden Albino, Axolotl Melanoid, Axolotl Piebald, Axolotl Blue",
+  "pesebaran" : "Hewan ini menjadi hewan endemik Mexico.", 
+  "makananKesukaan" : "Daging.",
+  "Deskripsi" : "Hewan ini memang aneh, dibilang ikan tapi dia berkaki, Axolotl itu sebetulnya salamander juga tapi bedanya axolotl tidak memiliki sel yang sempurna sedangkan salamander sudah memiliki bagian tubuh yang utuh. Axolotl adalah salamander neotenik yang berhubungan dekat dengan salamander harimau.  Larva spesies ini tidak mengalami metamorfosis, sehingga axolotl dewasa tetap bersifat akuatik dan memiliki insang. Spesies ini juga disebut ajolote yang merupakan nama umum untuk jenis-jenis salamander yang berbeda. Axolotl berasal dari berbagai danau, seperti Danau Xochimilco di bawah Ciudad de Mexico. Hewan ini sering digunakan dalam penelitian ilmiah karena mereka mampu meregenerasi hampir seluruh anggota tubuh. Kemampuan ini membuat sebagian orang menganggap axolotl sebagai hewan yang luar biasa."
+    }
     
 ], 
   "reptil" : 
